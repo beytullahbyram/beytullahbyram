@@ -1,6 +1,8 @@
 
 ## Yazılım Geliştirici 👋  Beytullah Bayram
- ![](https://img.shields.io/badge/SoftwareDeveloper-blue)
+ ![](https://img.shields.io/badge/SoftwareDeveloper-red)
+ ![](https://img.shields.io/badge/SQLDeveloper-yellow)
+ ![](https://img.shields.io/badge/AlmostFullStackDeveloper-dark)
 
 
 
