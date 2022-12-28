@@ -3,7 +3,6 @@
  ![](https://img.shields.io/badge/SoftwareDeveloper-red)
  ![](https://img.shields.io/badge/SQLDeveloper-yellow)
  ![](https://img.shields.io/badge/AlmostFullStackDeveloper-dark)
- ![]https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=beytullahbyram.beytullahbyram)](#)
