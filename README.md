@@ -1,6 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Hamza ORTATEPE</h1>
-<h3 align="center">I'm a Developer</h3>
+<h1 align="center">Hi 👋, I'm Beytullah Bayram</h1>
+<h3 align="center">I'm a Junior Developer</h3>
+ ![](https://img.shields.io/badge/SoftwareDeveloper-red)
+ ![](https://img.shields.io/badge/SQLDeveloper-yellow)
+ ![](https://img.shields.io/badge/AlmostFullStackDeveloper-dark)
+
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=beytullahbyram.beytullahbyram)](#)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beytullahbyram&label=Profile%20views&color=0e75b6&style=flat" alt="beytullahbyram" /> </p>
 
@@ -39,12 +45,6 @@
 
 
 ## Yazılım Geliştirici 👋  Beytullah Bayram
- ![](https://img.shields.io/badge/SoftwareDeveloper-red)
- ![](https://img.shields.io/badge/SQLDeveloper-yellow)
- ![](https://img.shields.io/badge/AlmostFullStackDeveloper-dark)
-
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=beytullahbyram.beytullahbyram)](#)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=beytullahbyram&theme=blue-green">
