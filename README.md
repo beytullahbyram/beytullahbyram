@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Beytullah Bayram</h1>
 <h3 align="center">I'm a Junior Developer</h3>
- ![](https://img.shields.io/badge/SoftwareDeveloper-red)
- ![](https://img.shields.io/badge/SQLDeveloper-yellow)
- ![](https://img.shields.io/badge/AlmostFullStackDeveloper-dark)
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=beytullahbyram.beytullahbyram)](#)
